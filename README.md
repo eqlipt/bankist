@@ -2,7 +2,7 @@
 
 Pure Javascript app from learning course by Jonas Schmedtmann
 
-Some simple and advanced DOM concepts:
+Some simple and advanced DOM techniques:
 
 - Modal window
 - Smooth scrolling
