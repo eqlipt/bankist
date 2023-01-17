@@ -75,7 +75,6 @@ const operationContentBlocks = document.querySelectorAll(
 tabsContainer.addEventListener('click', function (e) {
   const clicked = e.target.closest('.operations__tab');
   const targetId = clicked.dataset.tab;
-  console.log(targetId);
 
   if (!clicked) return;
 
